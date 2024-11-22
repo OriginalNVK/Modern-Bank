@@ -10,4 +10,11 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'Angular-calculator';
+
+  calValue: number = 0;
+  funcT: any = 'NoFunction';
+
+  onClickValue(value: string, type: any): void{
+  console.log(value, type);
+  }
 }
