@@ -1,5 +1,5 @@
 <div align="center">
-# 🏦 ON Modern Bank
+<h2> 🏦 ON Modern Bank </h2> 
 
 *A responsive React JS banking website with elegant design and reusable components using Tailwind CSS* 🚀
 
