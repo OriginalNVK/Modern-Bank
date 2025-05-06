@@ -1,17 +1,13 @@
+<div align="center">
 # 🏦 ON Modern Bank
 
 *A responsive React JS banking website with elegant design and reusable components using Tailwind CSS* 🚀
 
+  <img width="600px" src="./src/assets/background-website.png" alt="Screenshot of ON Modern Bank">
 ![ReactJS](https://img.shields.io/badge/React_JS-black?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-black?style=for-the-badge&logo=tailwindcss&logoColor=62baf3)
 ![Vite](https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
-<div align="center">
-  <img width="595px" src="https://your-image-hosting.com/onmodernbank-hero.png" alt="Hero Section">
-  <br>
-  <a href="https://your-deployed-app-link.com">
-    <img src="https://img.shields.io/badge/🔗_Visit_website-white?style=flat" alt="Live Demo">
-  </a>
 </div>
 
 ## 📘 Table of Contents
