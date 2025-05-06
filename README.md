@@ -49,14 +49,6 @@ If you're looking to explore clean front-end architecture with a strong focus on
 - **🔷 Testimonials:** Client reviews for building trust and credibility.
 - **🔷 Footer:** Clean footer with links and branding.
 
-<div align="center">
-  <img width="49%" src="https://your-image-hosting.com/onmodernbank-hero.png" alt="Hero">
-  <img width="49%" src="https://your-image-hosting.com/onmodernbank-billing.png" alt="Billing">
-  <br>
-  <img width="49%" src="https://your-image-hosting.com/onmodernbank-card.png" alt="Card Deal">
-  <img width="49%" src="https://your-image-hosting.com/onmodernbank-footer.png" alt="Footer">
-</div>
-
 ## ⚙️ <a name="getting-started">Getting Started</a>
 
 ### 🖥️ Development
