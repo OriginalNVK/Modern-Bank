@@ -1,7 +1,7 @@
 <div align="center">
-<h2> 🏦 ON Modern Bank </h2> 
+<h2> 🏦 ON Modern Bank </h2>
 
-*A responsive React JS banking website with elegant design and reusable components using Tailwind CSS* 🚀
+_A responsive React JS banking website with elegant design and reusable components using Tailwind CSS_ 🚀
 
   <img width="600px" src="./src/assets/background-image.png" alt="Screenshot of ON Modern Bank">
   
@@ -12,12 +12,13 @@
 </div>
 
 ## 📘 Table of Contents
-1. [Introduction](#introduction) 🧭  
-2. [Technologies](#technologies) 💻  
-3. [Features](#features) 🚀  
-4. [Getting Started](#getting-started) ⚙️  
-5. [Acknowledgements](#acknowledgements) 💙  
-6. [Contact](#contact) 🌐  
+
+1. [Introduction](#introduction) 🧭
+2. [Technologies](#technologies) 💻
+3. [Features](#features) 🚀
+4. [Getting Started](#getting-started) ⚙️
+5. [Acknowledgements](#acknowledgements) 💙
+6. [Contact](#contact) 🌐
 
 ## 🧭 <a name="introduction">Introduction</a>
 
@@ -54,22 +55,26 @@ If you're looking to explore clean front-end architecture with a strong focus on
 ### 🖥️ Development
 
 #### 1. Clone the Repository
+
 ```bash
 git clone https://github.com/OriginalNVK/Modern-Bank.git
 cd Modern-Bank
 ```
 
 #### 2. Install Dependencies
+
 ```bash
 npm install
 ```
 
 #### 3. Run the Development Server
+
 ```bash
 npm run dev
 ```
 
 #### 4. Open the browser and navigate to:
+
 ```
 http://localhost:5173
 ```
@@ -77,10 +82,37 @@ http://localhost:5173
 You should see the ON Modern Bank homepage. You can now begin customizing components or styling as needed.
 
 ### 🚀 Deployment Options
+
 You can deploy this project using:
+
 - **Vercel** — great for React apps.
 - **Netlify** — easy Git integration.
 - **GitHub Pages** — free and straightforward.
+
+### 🐳 Docker Deployment
+
+#### 1. Build the Docker Image
+
+```bash
+docker build -t modern-bank .
+```
+
+#### 2. Run the Container
+
+```bash
+docker run -d -p 80:80 modern-bank
+```
+
+The application will be available at `http://localhost:80`
+
+#### Docker Commands Reference:
+
+- **Stop Container:** `docker stop <container_id>`
+- **Remove Container:** `docker rm <container_id>`
+- **List Containers:** `docker ps`
+- **List Images:** `docker images`
+
+> Note: Make sure you have Docker installed on your system before running these commands.
 
 ## 💙 <a name="acknowledgements">Acknowledgements</a>
 
