@@ -1,9 +1,10 @@
 <div align="center">
-# 🏦 ON Modern Bank
+<h2> 🏦 ON Modern Bank </h2> 
 
 *A responsive React JS banking website with elegant design and reusable components using Tailwind CSS* 🚀
 
-  <img width="600px" src="./src/assets/background-website.png" alt="Screenshot of ON Modern Bank">
+  <img width="600px" src="./src/assets/background-image.png" alt="Screenshot of ON Modern Bank">
+  
 ![ReactJS](https://img.shields.io/badge/React_JS-black?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-black?style=for-the-badge&logo=tailwindcss&logoColor=62baf3)
 ![Vite](https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=vite&logoColor=FFD62E)
@@ -47,14 +48,6 @@ If you're looking to explore clean front-end architecture with a strong focus on
 - **🔷 Credit Card Section:** Showcase best card deals with smooth transitions.
 - **🔷 Testimonials:** Client reviews for building trust and credibility.
 - **🔷 Footer:** Clean footer with links and branding.
-
-<div align="center">
-  <img width="49%" src="https://your-image-hosting.com/onmodernbank-hero.png" alt="Hero">
-  <img width="49%" src="https://your-image-hosting.com/onmodernbank-billing.png" alt="Billing">
-  <br>
-  <img width="49%" src="https://your-image-hosting.com/onmodernbank-card.png" alt="Card Deal">
-  <img width="49%" src="https://your-image-hosting.com/onmodernbank-footer.png" alt="Footer">
-</div>
 
 ## ⚙️ <a name="getting-started">Getting Started</a>
 
